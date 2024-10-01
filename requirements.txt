@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+python-dotenv
+pypdf
+groq
+langchain-groq
