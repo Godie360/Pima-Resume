@@ -6,4 +6,4 @@ python-dotenv
 pypdf
 groq
 langchain-groq
-PyMuPDF
+PyMuPDF==1.20.1
